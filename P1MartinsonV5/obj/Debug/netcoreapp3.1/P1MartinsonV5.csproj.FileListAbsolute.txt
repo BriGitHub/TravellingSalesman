@@ -1,0 +1,11 @@
+C:\Users\Brianna Martinson\source\repos\P1MartinsonV5\P1MartinsonV5\bin\Debug\netcoreapp3.1\P1MartinsonV5.exe
+C:\Users\Brianna Martinson\source\repos\P1MartinsonV5\P1MartinsonV5\bin\Debug\netcoreapp3.1\P1MartinsonV5.deps.json
+C:\Users\Brianna Martinson\source\repos\P1MartinsonV5\P1MartinsonV5\bin\Debug\netcoreapp3.1\P1MartinsonV5.runtimeconfig.json
+C:\Users\Brianna Martinson\source\repos\P1MartinsonV5\P1MartinsonV5\bin\Debug\netcoreapp3.1\P1MartinsonV5.runtimeconfig.dev.json
+C:\Users\Brianna Martinson\source\repos\P1MartinsonV5\P1MartinsonV5\bin\Debug\netcoreapp3.1\P1MartinsonV5.dll
+C:\Users\Brianna Martinson\source\repos\P1MartinsonV5\P1MartinsonV5\bin\Debug\netcoreapp3.1\P1MartinsonV5.pdb
+C:\Users\Brianna Martinson\source\repos\P1MartinsonV5\P1MartinsonV5\obj\Debug\netcoreapp3.1\P1MartinsonV5.csprojAssemblyReference.cache
+C:\Users\Brianna Martinson\source\repos\P1MartinsonV5\P1MartinsonV5\obj\Debug\netcoreapp3.1\P1MartinsonV5.AssemblyInfoInputs.cache
+C:\Users\Brianna Martinson\source\repos\P1MartinsonV5\P1MartinsonV5\obj\Debug\netcoreapp3.1\P1MartinsonV5.AssemblyInfo.cs
+C:\Users\Brianna Martinson\source\repos\P1MartinsonV5\P1MartinsonV5\obj\Debug\netcoreapp3.1\P1MartinsonV5.dll
+C:\Users\Brianna Martinson\source\repos\P1MartinsonV5\P1MartinsonV5\obj\Debug\netcoreapp3.1\P1MartinsonV5.pdb
